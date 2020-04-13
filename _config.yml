@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 title: Famille Cerisara
 description: Site personnel
-baseurl: /website
+baseurl: /
 github:
   is_project_page: false
