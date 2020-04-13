@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-
 title: Famille Cerisara
+description: Site personnel
+baseurl: /website
