@@ -18,5 +18,6 @@ Mes différentes identités numériques:
 - [sur stackoverflow](https://stackoverflow.com/users/2637126/xtof54)
 - [sur iNaturalist](https://www.inaturalist.org/people/christophecerisara)
 - [sur Mastodon](https://mastodon.etalab.gouv.fr/@cerisara)
+- [sur Google scholar](https://scholar.google.com/citations?user=dB1-aHwAAAAJ&hl=fr&oi=ao)
 - et de nombreuses autres...
 
