@@ -10,3 +10,5 @@ Pour le moment, vous pouvez:
 - me contacter sur Mastodon: @cerisara@mastodon.etalab.gouv.fr
 - voir [mon CV](https://members.loria.fr/CCerisara/resume)
 
+Mon objectif: un deep learning éthique et accessible...
+
