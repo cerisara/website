@@ -12,3 +12,11 @@ Pour le moment, vous pouvez:
 
 Mon objectif: un deep learning éthique et accessible...
 
+Mes différentes identités numériques:
+
+- [sur github](https://github.com/cerisara); mais je suis aussi sur gitlab.com, bitbucket, framagit, et gitlab.inria.fr
+- [sur stackoverflow](https://stackoverflow.com/users/2637126/xtof54)
+- [sur iNaturalist](https://www.inaturalist.org/people/christophecerisara)
+- [sur Mastodon](https://mastodon.etalab.gouv.fr/@cerisara)
+- et de nombreuses autres...
+
