@@ -26,7 +26,7 @@ cette fracture.
 dans des échanges unidirectionnels, et qui résulte souvent en une piètre qualité, par exemple lorsque l'on filme
 un prof écrivant au tableau, ou lorsque la connection lag pour une raison ou une autre.
 
-Or, il existe d'autres solutions à tous ces problèmes, mais ils ne sont que peu développés,
+Or, il existe d'autres solutions à tous ces problèmes, mais ils ne sont que peu utilisés,
 principalement pour des raisons d'habitude, de méconnaissance, et de confort car elles recquièrent effectivement
 un effort pour changer de façon de rédiger ses supports de cours.
 La base de ces solutions consiste en effet à rédiger ses supports non plus avec powerpoint, mais dans un simple
