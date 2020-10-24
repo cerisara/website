@@ -22,7 +22,42 @@ Quelques Universités offrent parfois des clefs 4G à certains étudiants, mais 
 cela représente un coût important qui sera forcément assumé par quelqu'un à un moment donné, alors que
 d'autres solutions, beaucoup moins gourmandes en bande passante, existent et peuvent résorber en grande partie
 cette fracture.
-- Enfin, la video est une mauvaise solution pour l'éducation, qui n'offre aucune interactivité, aucun dynamisme
-dans des échanges unidirectionnels, et qui n'offre souvent qu'une piètre qualité, par exemple lorsque l'on filme
-un prof écrivant au tableau.
+- Enfin, la video est une mauvaise solution pour l'éducation, qui n'offre **aucune interactivité**, aucun dynamisme
+dans des échanges unidirectionnels, et qui résulte souvent en une piètre qualité, par exemple lorsque l'on filme
+un prof écrivant au tableau, ou lorsque la connection lag pour une raison ou une autre.
+
+Or, il existe d'autres solutions à tous ces problèmes, mais ils ne sont que peu développés,
+principalement pour des raisons d'habitude, de méconnaissance, et de confort car elles recquièrent effectivement
+un effort pour changer de façon de rédiger ses supports de cours.
+La base de ces solutions consiste en effet à rédiger ses supports non plus avec powerpoint, mais dans un simple
+format textuel, qui est d'ailleurs le même que celui utilisé dans les Wiki; il est d'ailleurs très simple et
+permet de créer des transparents beaucoup plus rapidement qu'avec powerpoint, mais en offrant moins de possibilités
+visuelles. Les slides résultant sont tout aussi beaux, mais plus simples, plus épurés, avec un focus sur le contenu
+plutôt que la forme. Il est possible par ailleurs d'ajouter des effets visuels assez bluffant, car inhabituels et
+très différents de ceux auxquels nous avons l'habitude avec les suites office. Mais ces effets sont encore assez
+complexes à mettre en oeuvre (ce sont en fait toutes les animations javascript).
+Les slides résultant sont alors de simples pages web, que tous les étudiants peuvent consulter dans tout
+navigateur, même sur leur smartphone.
+
+Mais cela va bien au-delà, car il est possible, et même très facile, d'inclure de très nombreuses fonctionalités
+qui peuvent rendre ce format de diffusion très riche en fonction des situations. Par exemple:
+
+- La qualité des transparents est parfaite quelle que soit la connection internet, car il ne s'agit en fait que
+d'une page web améliorée, directement stockée en local sur le terminal de l'étudiant;
+- Pendant un cours, tous les slides des étudiants peuvent être synchronisés avec un browser "maître": ainsi, les
+étudiants peuvent revenir en arrière sur leur écran, mais dès que le "maître" avance à un endroit de la présentation,
+tous les clients s'y rendent automatiquement. En terme de qualité sur le terminal, et d'interactivité avec le
+support de cours, cette méthode permet déjà un gain énorme par rapport à une retransmission vidéo ou un partage d'écran.
+- Pendant un cours, le prof peut dessiner, avec sa souris ou mieux un stylet, sur les slides, et ses dessins seront
+immédiatement retransmis sur les slides des étudiants.
+- De même, des animations, des courbes qui se dessinent, peuvent être contrôlées par le "maître" et être reproduites
+sur les "clients".
+- S'il y a besoin de montrer un terminal, par exemple lors d'un cours de programmation, il est possible d'inclure
+dans les slides clients un "pseudo-terminal" qui retransmettra en direct le terminal du prof.
+- Il suffit d'appuyer sur une touche pour enregistrer un commentaire audio par slide, et ainsi faire du cours
+un MOOC consultable à tout moment.
+
+Et de nombreux autres plugins ne cessent d'être développés et enrichissent de mille façon possible cette nouvelle
+manière de concevoir les cours.
+
 
