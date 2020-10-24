@@ -38,8 +38,8 @@ très différents de ceux auxquels nous avons l'habitude avec les suites office.
 complexes à mettre en oeuvre (ce sont en fait toutes les animations javascript), et il vaut mieux s'en passer
 pour commencer.
 
-> Les slides résultant sont au final de simples pages web, que tous les étudiants peuvent consulter dans tout
-> navigateur, même sur leur smartphone.
+Les slides résultant sont au final de simples pages web, que tous les étudiants peuvent consulter dans tout
+navigateur, même sur leur smartphone.
 
 Mais cela va bien au-delà, car il est possible, et même très facile, d'inclure de très nombreuses fonctionalités
 qui peuvent rendre ce format de diffusion très riche en fonction des situations. Par exemple:
