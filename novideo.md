@@ -61,7 +61,7 @@ dans les slides clients un "pseudo-terminal" qui retransmettra en direct le term
 - Il suffit d'appuyer sur une touche pour enregistrer un commentaire audio par slide, et ainsi faire du cours
 un MOOC consultable à tout moment.
 
-Et de nombreux autres plugins ne cessent d'être développés et enrichissent de mille façon possible cette nouvelle
+Et de nombreux autres plugins ne cessent d'être développés et enrichissent de mille façons possibles cette nouvelle
 manière de concevoir les cours.
 Pour plus d'infos techniques, allez voir reveal.js et ses nombreux plugins, notamment multiplex, chalkboard, audioslides, etc.
 
