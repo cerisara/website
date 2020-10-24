@@ -59,5 +59,10 @@ un MOOC consultable à tout moment.
 
 Et de nombreux autres plugins ne cessent d'être développés et enrichissent de mille façon possible cette nouvelle
 manière de concevoir les cours.
+Pour plus d'infos techniques, allez voir reveal.js et ses nombreux plugins, notamment multiplex, chalkboard, audioslides, etc.
 
+Il faudrait simplifier l'utilisation de ces méthodes afin de les démocratiser au-delà de la sphère des informaticiens,
+et je réfléchis pour cela à étendre la plateforme du fediverse OLKi afin qu'elle permette à des enseignants
+de tester ces méthodes avec zéro code, sans serveurs et zéro installation.
+Si vous êtes intéressés, merci de me contacter !
 
