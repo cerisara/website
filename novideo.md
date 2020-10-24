@@ -30,14 +30,16 @@ Or, il existe d'autres solutions à tous ces problèmes, mais ils ne sont que pe
 principalement pour des raisons d'habitude, de méconnaissance, et de confort car elles requièrent effectivement
 un effort pour changer de façon de rédiger ses supports de cours.
 La base de ces solutions consiste en effet à rédiger ses supports non plus avec powerpoint, mais dans un simple
-format textuel, qui est d'ailleurs le même que celui utilisé dans les Wiki; il est d'ailleurs très simple et
+format textuel, qui est d'ailleurs le même que celui utilisé dans les Wiki; il est très simple et
 permet de créer des transparents beaucoup plus rapidement qu'avec powerpoint, mais en offrant moins de possibilités
 visuelles. Les slides résultant sont tout aussi beaux, mais plus simples, plus épurés, avec un focus sur le contenu
-plutôt que la forme. Il est possible par ailleurs d'ajouter des effets visuels assez bluffant, car inhabituels et
+plutôt que la forme. Il est possible néanmoins d'ajouter des effets visuels assez bluffant, car inhabituels et
 très différents de ceux auxquels nous avons l'habitude avec les suites office. Mais ces effets sont encore assez
-complexes à mettre en oeuvre (ce sont en fait toutes les animations javascript).
-Les slides résultant sont alors de simples pages web, que tous les étudiants peuvent consulter dans tout
-navigateur, même sur leur smartphone.
+complexes à mettre en oeuvre (ce sont en fait toutes les animations javascript), et il vaut mieux s'en passer
+pour commencer.
+
+  Les slides résultant sont au final de simples pages web, que tous les étudiants peuvent consulter dans tout
+  navigateur, même sur leur smartphone.
 
 Mais cela va bien au-delà, car il est possible, et même très facile, d'inclure de très nombreuses fonctionalités
 qui peuvent rendre ce format de diffusion très riche en fonction des situations. Par exemple:
