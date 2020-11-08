@@ -76,3 +76,5 @@ de tester ces méthodes avec zéro code, sans serveurs et zéro installation, ma
 haleine à entreprendre seul, et donc, 
 si vous êtes intéressés, n'hésitez pas à me contacter, merci !
 
+Le système que j'utilise pour donner des cours en ligne est aussi décrit [dans ce blog](https://homepages.loria.fr/CCerisara/#teaching/).
+
