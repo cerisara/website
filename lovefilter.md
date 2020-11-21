@@ -23,7 +23,7 @@ C'est vrai que j'aurais peut-être dû lire les conditions d'utilisations au dé
 mais bon, il y en avait pour des heures, et je n'aurais rien compris de toute manière.
 
 Mais au moins, ca marche, et puis en fouillant un peu, j'ai même trouvé des fonctionalités
-plutôt sympa, auxquelles je n'avais pas pensées, et qui impressionneront sûrement mes collègues.
+plutôt sympa, auxquelles je n'avais pas pensé, et qui impressionneront sûrement mes collègues.
 Ca ne fait jamais de mal d'avoir l'air de connaître des astuces que les autres ignorent.
 Tiens, je vais leur dire tout de suite d'utiliser ce site !
 Après tout, c'est tellement mieux que les autres sites incompréhensibles qu'ils proposent.
