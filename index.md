@@ -26,4 +26,5 @@ Mes différentes identités numériques:
 - Recette 1: [comment marier du vin et de la daube](drm.html)
 - Recette 2: "Nous manquons d’ambition, car nous avons très peur de l’échec. En France, on crève parfois de ne pas oser." [Julia De Funès](https://www.lecho.be/opinions/general/julia-de-funes-la-mecanique-metro-boulot-dodo-est-mise-a-mal-avec-le-teletravail-et-c-est-tant-mieux/10252395.html)
 - Recette 3: [plaidoyer pour une éducation sans video](novideo.html)
+- Recette 4: [l'effet filtre d'amour](lovefilter.html)
 
