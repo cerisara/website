@@ -6,12 +6,7 @@ Quand on est sous linux, ce n'est malheureusement pas si simple.
 Voici un petit tuto qui vous permet de récupérer les livres sous Ubuntu 20, et de les lire sur une Kindle,
 en enlevant (temporairement, juste le temps de l'emprunt !) le DRM.
 
-- installez la version 4.22 de Calibre sous Ubuntu (qui fonctionne avec python 2.7 !) comme ceci:
-
-```
-sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
-```
-
+- installez la version 4.22 de Calibre sous Ubuntu (qui fonctionne avec python 2.7 !) depuis [https://download.calibre-ebook.com/4.22.0/](https://download.calibre-ebook.com/4.22.0/)
 - Installez ensuite dans calibre la derniere version du plugin DeDRM
 - En partant d'une installe de Ubuntu 20 "propre", installez wine en le configurant pour du win32, puis ADE:
 
