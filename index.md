@@ -5,7 +5,7 @@ L'objectif de ce site est de diffuser des blogs (plutôt sérieux), des tutos, d
 
 Pour le moment, vous pouvez:
 
-- lire un [blog de billets "légers" (en anglais) sur le deep learning](https://blog.cerisara.fr).
+- lire un [blog de billets "légers" sur le deep learning](dico/index.html).
 - vous essayer à un [petit "cours" en ligne sur la back-propagation](https://olki.loria.fr/mooc/mooc1) en français, 100% gratuit et sans traqueurs, simple pour comprendre les bases en s'amusant à les implémenter sur son mobile.
 - me contacter sur Mastodon: @cerisara@mastodon.etalab.gouv.fr
 - voir [mon CV](https://members.loria.fr/CCerisara/resume)

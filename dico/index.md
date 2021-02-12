@@ -10,5 +10,6 @@ Et puisque je ne sais pas classer ces billets autrement que par
 ordre alphabétique, cela peut ressembler de très loin à un
 dictionnaire (de très très loin tout de même...).
 
+- [D](d.html) : deep learning
 - [Z](z.html) : zero-shot
 
