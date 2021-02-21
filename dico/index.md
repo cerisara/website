@@ -10,7 +10,7 @@ Et puisque je ne sais pas classer ces billets autrement que par
 ordre alphabétique, cela peut ressembler de très loin à un
 dictionnaire (de très très loin tout de même...).
 
-- [D](d.html) : deep learning
+- [D](d.html) : deep learning; differential privacy; distillation
 - [F](f.html) : federated learning
 - [G](g.html) : GAN
 - [T](t.html) : transformer
