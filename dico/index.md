@@ -11,6 +11,7 @@ ordre alphabétique, cela peut ressembler de très loin à un
 dictionnaire (de très très loin tout de même...).
 
 - [D](d.html) : deep learning
+- [F](f.html) : federated learning
 - [G](g.html) : GAN
 - [T](t.html) : transformer
 - [Z](z.html) : zero-shot
