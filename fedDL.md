@@ -1,13 +1,13 @@
 ### Federated Learning opensource software
 
 - syft.js
-  - train PyTorch/PySyft models in browser
+  - train PyTorch/PySyft models in browser.
 - Threepio
   - to convert between pytorch/tensorflow
 - SwiftSyft
   - for iOS devices
 - PySyft FL Worker
-  - FL worker
+  - FL worker; PySyft enables to send models on PyGrid nodes to be trained on the distant node data.
 - KotlinSyft
   - for android devices
 - IBM Federated Learning
