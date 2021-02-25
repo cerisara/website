@@ -25,8 +25,9 @@ Mes identités numériques:
 
 ### Les recettes de geek
 
-- Recette 1: [comment marier du vin et de la daube](drm.html)
-- Recette 2: [plaidoyer pour une éducation sans video](novideo.html)
+- [comment marier du vin et de la daube](drm.html)
+- [plaidoyer pour une éducation sans video](novideo.html)
+- [Federated learning open source platforms](fedDL.html)
 
 -------------
 
