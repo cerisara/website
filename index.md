@@ -35,4 +35,6 @@ Mes identités numériques:
 
 - "Nous manquons d’ambition, car nous avons très peur de l’échec. En France, on crève parfois de ne pas oser." [Julia De Funès](https://www.lecho.be/opinions/general/julia-de-funes-la-mecanique-metro-boulot-dodo-est-mise-a-mal-avec-le-teletravail-et-c-est-tant-mieux/10252395.html)
 - A ne surtout pas rater: [XKCD](https://xkcd.com/)
+- message perso: ksav en zip et gpg 
+
 
