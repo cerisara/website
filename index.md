@@ -28,6 +28,7 @@ Mes identités numériques:
 - [comment marier du vin et de la daube](drm.html)
 - [plaidoyer pour une éducation sans video](novideo.html)
 - [Federated learning open source platforms](fedDL.html)
+- [Les arbres de décision ne sont pas explicables](xai.html)
 
 -------------
 
