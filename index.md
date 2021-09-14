@@ -1,3 +1,11 @@
+## Vérifiez mes emails !
+
+Je suis la victime d'une campagne de spear phishing: quelqu'un usurpe mon identité pour
+envoyer des spams et emails de phishing à mes collaborateurs et aux personnes qui me sont
+liées d'une manière ou d'une autre: donc si vous recevez un email avec mon nom, mais
+une adresse en "professor...@gmail..." ou un sujet en "Etes-vous disponible", **je n'ai
+pas envoyé ce mail**, et c'est un mail de phishing: n'y répondez surtout pas !
+
 ## Site personnel
 
 Ce site est en construction permanente.
