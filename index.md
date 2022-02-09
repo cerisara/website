@@ -25,7 +25,7 @@ Mes identités numériques:
 
 ### Tout va bien...
 
-![](img/co2.png | width=400)
+<img src="img/co2.png" width="400"/>
 
 -------------
 
