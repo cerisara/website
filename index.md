@@ -10,11 +10,9 @@ Pour le moment, vous pouvez:
 - me contacter sur Mastodon: @cerisara@mastodon.etalab.gouv.fr
 - voir [mon CV](https://members.loria.fr/CCerisara/resume)
 
-Et tout ça pour quoi ? Pour un deep learning éthique et accessible... (bon, y'a encore du chemin...)
-
 Mes identités numériques:
 
-- [sur github](https://github.com/cerisara); mais je suis aussi sur gitlab.com, bitbucket, framagit, et gitlab.inria.fr
+- [sur github](https://github.com/cerisara); mais je fréquente aussi gitlab.com, bitbucket, framagit, et gitlab.inria.fr
 - [sur stackoverflow](https://stackoverflow.com/users/2637126/xtof54)
 - [sur iNaturalist](https://www.inaturalist.org/people/christophecerisara)
 - [sur Mastodon](https://olkichat.duckdns.org/web/accounts/1)
@@ -31,7 +29,8 @@ Mes identités numériques:
 
 ### Les recettes de geek
 
-- [comment marier du vin et de la daube](drm.html)
+- [100% terminal: old-school ou tendance ?](nogui.html)
+- [comment marier du vin et de la daube (c'est un jeu de mots de geeks, hein !)](drm.html)
 - [plaidoyer pour une éducation sans video](novideo.html)
 - [Federated learning open source platforms](fedDL.html)
 - [Les arbres de décision ne sont pas explicables](xai.html)
