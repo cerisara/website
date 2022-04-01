@@ -38,8 +38,12 @@ mais s'ils ont survécu aussi longtemps et sont toujours utilisés, c'est pour u
 - **navigateur internet**: **lynx** pour aller vite, mais c'est vrai que il y a beaucoup de pages qui ne passent
   plus bien dans lynx; dans ce cas, il faut faire un compromis et utiliser une interface graphique, mais contrôlée
   au clavier: **qutebrowser**.
-- **chat**: fuyez les grands réseaux sociaux; les geeks sont encore sur **Usenet** (eh oui, ca ne sert pas que
-  à pirater, on peut aussi y discuter !), à lire avec **slrn** par exemple.
+- **agenda**: Vous avez remarqué qu'il y a pléthore d'agendas ? Bien sûr, vous en avez un chez Google, mais
+  aussi un à votre travail ? Ou peut-être utilisez-vous celui de Teams ? Et évidemment, pas facile à tout
+  sauvegarder en un seul endroit... Jetez tout cela à la poubelle, et utilisez **calcurse**, terminal-based,
+  mode texte, scriptable à souhait, compatible avec git, et même utilisable sous android avec termux !
+- **réseaux sociaux**: fuyez les grands réseaux sociaux; les geeks sont encore sur **Usenet** (eh oui, ca ne sert pas que
+  à pirater, on peut aussi y discuter !), à lire avec **slrn** par exemple. Ou alors, il y a **Mastodon**, mais pas très adapté au terminal; sinon, le vénérable IRC, ou pas de réseaux sociaux du tout, c'est encore mieux.
 
 J'en ai sûrement oublié, mais l'anneau pour les lier tous, c'est bien sûr **git** !
 
