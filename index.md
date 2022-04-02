@@ -1,11 +1,3 @@
-## Vérifiez mes emails !
-
-Je suis victime d'une campagne de spear phishing: quelqu'un usurpe mon identité pour
-envoyer des emails de phishing aux personnes qui me sont
-liées d'une manière ou d'une autre: donc si vous recevez un email avec mon nom, mais
-une adresse en "professor...@gmail..." ou un sujet en "Etes-vous disponible", **je n'ai
-pas envoyé ce mail**, et c'est un mail de phishing: n'y répondez surtout pas !
-
 ## Site personnel
 
 Ce site est en construction permanente.
@@ -18,22 +10,27 @@ Pour le moment, vous pouvez:
 - me contacter sur Mastodon: @cerisara@mastodon.etalab.gouv.fr
 - voir [mon CV](https://members.loria.fr/CCerisara/resume)
 
-Et tout ça pour quoi ? Pour un deep learning éthique et accessible... (bon, y'a encore du chemin...)
-
 Mes identités numériques:
 
-- [sur github](https://github.com/cerisara); mais je suis aussi sur gitlab.com, bitbucket, framagit, et gitlab.inria.fr
+- [sur github](https://github.com/cerisara); mais je fréquente aussi gitlab.com, bitbucket, framagit, et gitlab.inria.fr
 - [sur stackoverflow](https://stackoverflow.com/users/2637126/xtof54)
 - [sur iNaturalist](https://www.inaturalist.org/people/christophecerisara)
-- [sur Mastodon](https://mastodon.etalab.gouv.fr/@cerisara)
+- [sur Mastodon](https://olkichat.duckdns.org/web/accounts/1)
 - [sur Google scholar](https://scholar.google.com/citations?user=dB1-aHwAAAAJ&hl=fr&oi=ao)
 - ...
 
 -------------
 
+### Tout va bien...
+
+<img src="img/co2.png" width="400"/>
+
+-------------
+
 ### Les recettes de geek
 
-- [comment marier du vin et de la daube](drm.html)
+- [100% terminal: old-school ou tendance ?](nogui.html)
+- [comment marier du vin et de la daube (c'est un jeu de mots de geeks, hein !)](drm.html)
 - [plaidoyer pour une éducation sans video](novideo.html)
 - [Federated learning open source platforms](fedDL.html)
 - [Les arbres de décision ne sont pas explicables](xai.html)
@@ -44,6 +41,4 @@ Mes identités numériques:
 
 - "Nous manquons d’ambition, car nous avons très peur de l’échec. En France, on crève parfois de ne pas oser." [Julia De Funès](https://www.lecho.be/opinions/general/julia-de-funes-la-mecanique-metro-boulot-dodo-est-mise-a-mal-avec-le-teletravail-et-c-est-tant-mieux/10252395.html)
 - A ne surtout pas rater: [XKCD](https://xkcd.com/)
-- message perso: ksav en zip et gpg 
-
 
