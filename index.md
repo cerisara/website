@@ -1,23 +1,10 @@
 ## Site personnel
 
 Ce site est en construction permanente.
-L'objectif de ce site est de diffuser des blogs (plus ou moins sérieux), des tutos, du code, etc.
+Il recueille des trucs et astuces, des pensées sans importance...
 
-Pour le moment, vous pouvez:
-
-- lire un [recueil de billets "légers" sur le deep learning](dico/index.html).
-- vous essayer à un [petit "cours" en ligne sur la back-propagation](https://olki.loria.fr/mooc/mooc1) en français, 100% gratuit et sans traqueurs, simple pour comprendre les bases en s'amusant à les implémenter sur son mobile.
-- me contacter sur Mastodon: @cerisara@mastodon.etalab.gouv.fr
-- voir [mon CV](https://members.loria.fr/CCerisara/resume)
-
-Mes identités numériques:
-
-- [sur github](https://github.com/cerisara); mais je fréquente aussi gitlab.com, bitbucket, framagit, et gitlab.inria.fr
-- [sur stackoverflow](https://stackoverflow.com/users/2637126/xtof54)
-- [sur iNaturalist](https://www.inaturalist.org/people/christophecerisara)
-- [sur Mastodon](https://olkichat.duckdns.org/web/accounts/1)
-- [sur Google scholar](https://scholar.google.com/citations?user=dB1-aHwAAAAJ&hl=fr&oi=ao)
-- ...
+- [recueil de billets "légers" sur le deep learning](dico/index.html).
+- [petit "cours" en ligne sur la back-propagation](https://olki.loria.fr/mooc/mooc1) en français, 100% gratuit et sans traqueurs, simple pour comprendre les bases en s'amusant à les implémenter sur son mobile.
 
 -------------
 
