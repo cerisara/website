@@ -1,4 +1,4 @@
 # Ars
 
-![chambre 3](ch3/ch3.html)
+[chambre 3](ch3/ch3.html)
 
