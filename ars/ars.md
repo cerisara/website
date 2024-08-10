@@ -4,3 +4,9 @@
 
 [terrasse](terrasse/terr.md)
 
+[cave](cave/cave.md)
+
+[mezzanine](mezzanine/mezza.md)
+
+[cuisine](cuisine/cuisine.md)
+
