@@ -1,5 +1,9 @@
 # Ars
 
+[chambre 1](chambre1/ch1.html)
+
+[chambre 2](chambre2/ch2.html)
+
 [chambre 3](ch3/ch3.html)
 
 [terrasse](terrasse/terr.md)
@@ -9,6 +13,31 @@
 [mezzanine](mezzanine/mezza.md)
 
 [cuisine](cuisine/cuisine.md)
+
+[salon](salon/salon.md)
+
+[wc](wc/wc.md)
+
+[jardin](jardin/jardin.md)
+
+[sdb](sdb/sdb.md)
+
+### Surfaces
+
+- Plan cadastral Feuille 000 20 1, parcelles 20 + 340 + 160 + 339 + 161
+- terrain total = 1253 m2
+
+### Certificats
+
+- maison construite en 1948
+- toiture et charpentes refaites en 1988
+- porte d'entrée + volets + 27/11/2009
+- 3x fenetres dble vitrage 6/166/4ITR 29/9/2009
+- remplacement volets salon K par K: 22/3/2018
+- entretien toiture = 16/8/2013
+- doublage isolation pignon par l'extérieur = ??
+- conformité gaz 10/6/2014
+- remplacement chaudière condensation Bosch 7500WT 4/6/2014
 
 ### couts
 
