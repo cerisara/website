@@ -22,6 +22,8 @@
 
 [sdb](sdb/sdb.md)
 
+[garage](garage/garage.md)
+
 ### Surfaces
 
 - Plan cadastral Feuille 000 20 1, parcelles 20 + 340 + 160 + 339 + 161
