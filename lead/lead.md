@@ -1,3 +1,5 @@
+{%- extends "layouts/leaderboard.html" %}
+
 {%- assign sorted_scores = site.data.scores | sort: "score" | reverse %}
 
 <div class="leaderboard">
