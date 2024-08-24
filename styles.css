@@ -1,23 +1,28 @@
-.leaderboard {
-  background-color: #f0f0f0;
-  padding: 10px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.leaderboard ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.leaderboard li {
-  background-color: #fff;
-  padding: 5px 10px;
-  border-bottom: 1px solid #ccc;
-}
-
 .leaderboard li:last-child {
   border-bottom: none;
 }
+
+.leaderboard {
+    background-color: #1a1d23; /* Dark blue-ish gray */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .leaderboard ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #20232a; /* Dark gray */
+  }
+
+  .leaderboard li {
+    background-color: #3b4247; /* Darker, moodier gray */
+    padding: 5px 10px;
+    border-bottom: 1px solid #333;
+  }
+
+  .leaderboard h2 {
+    color: #fff; /* White text for the header */
+  }
 
