@@ -1,4 +1,4 @@
-{%- assign sorted_scores = site.data.scores | sort_by: "score" %}
+{%- assign sorted_scores = site.data.scores | sort: "score" %}
 
 <h2>Leaderboard</h2>
 <ul>
