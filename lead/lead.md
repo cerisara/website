@@ -1,4 +1,4 @@
-{%- assign sorted_scores = site.data.scores | sort: "score" %}
+{%- assign sorted_scores = site.data.scores | sort: "score" | reverse %}
 
 <h2>Leaderboard</h2>
 <ul>
