@@ -4,9 +4,19 @@ layout: leaderboard
 
 {%- assign sorted_scores = site.data.scores | sort: "score" | reverse %}
 
-<ul>
+<table border="1">
+<thead>
+    <tr>
+      <th>Name</th>
+      <th>Score</th>
+    </tr>
+</thead>
+  <tbody>
   {%- for score in sorted_scores %}
-    <li>{{ score.name }} {{ score.score | right:4 }}</li>
+    <tr>
+    <td>{{ score.name }}</td> <td> {{ score.score }}</td>
+    </tr>
   {%- endfor %}
-</ul>
+  </tbody>
+</table>
 
