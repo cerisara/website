@@ -6,7 +6,7 @@ layout: leaderboard
 
 <ul>
   {%- for score in sorted_scores %}
-    <li>{{ score.name }} - {{ score.score }}</li>
+    <li>{{ score.name }} {{ score.score | right:4 }}</li>
   {%- endfor %}
 </ul>
 
