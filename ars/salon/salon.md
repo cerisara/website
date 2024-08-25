@@ -17,6 +17,4 @@
 
 ![](web_salon7.jpg)
 
-![](web_salon8.jpg)
-
 ![](web_salon9.jpg)

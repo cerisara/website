@@ -18,16 +18,14 @@
 
 [wc](wc/wc.md)
 
-[jardin](jardin/jardin.md)
-
 [sdb](sdb/sdb.md)
 
 [garage](garage/garage.md)
 
 ### Surfaces
 
-- Plan cadastral Feuille 000 20 1, parcelles 20 + 340 + 160 + 339 + 161
 - terrain total = 1253 m2
+- maison = 81 m2
 
 ### Certificats
 

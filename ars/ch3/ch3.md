@@ -4,9 +4,6 @@
 ![](web_ch3_4.jpg)
 ![](couloir.jpg)
 
-![](web_ch3.jpg)
-![](web_ch3b.jpg)
 ![](web_ch3c.jpg)
 ![](web_ch3d.jpg)
-![](web_ch3e.jpg)
 ![](web_ch3f.jpg)
