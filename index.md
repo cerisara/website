@@ -1,12 +1,8 @@
 ## Site personnel
 
-Ce site est en construction permanente.
-Il n'y a pas grande chose d'intéressant en plus, je vous l'accorde...
-Mais bon, si vous n'avez rien d'autre à faire, jetez un coup d'oeil...
-
 ### LLM
 
-- The slides of my course about LLM for M2 TAL (Nancy):
+- The slides of my 2024-2025 course about LLM for M2 TAL (Nancy):
     - [Intro, embeddings, tokenizers](https://olki.loria.fr/cerisara/lexres/2024intro.html)
 
 -------------
