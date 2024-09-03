@@ -20,11 +20,9 @@ Mais bon, si vous n'avez rien d'autre à faire, jetez un coup d'oeil...
 ### Les recettes de geek
 
 - [100% terminal: old-school ou tendance ?](nogui.html)
-- [comment marier du vin et de la daube (c'est un jeu de mots de geeks, hein !)](drm.html)
-- [plaidoyer pour une éducation sans video](novideo.html)
+- [comment marier du vin et de la daube](drm.html)
 - [Federated learning open source platforms](fedDL.html)
 - [Les arbres de décision ne sont pas explicables](xai.html)
-- [petit "cours" en ligne sur la back-propagation](https://olki.loria.fr/mooc/mooc1) en français, 100% gratuit et sans traqueurs, simple pour comprendre les bases en s'amusant à les implémenter sur son mobile.
 
 -------------
 
