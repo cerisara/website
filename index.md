@@ -1,9 +1,12 @@
 ## Site personnel
 
-### LLM
+### Course Slides
 
-- The slides of my 2024-2025 course about LLM for M2 TAL (Nancy):
+- 2024-2025 course about LLM for M2 TAL (Nancy):
     - [Intro, embeddings, tokenizers](https://olki.loria.fr/cerisara/lexres/2024intro.html)
+- IDESSAI'2024 (Saarbrucken, DFKI):
+    - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
+    - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
 
 -------------
 
