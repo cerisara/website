@@ -1,4 +1,3 @@
-## Site personnel
 
 ### Course Slides
 
@@ -16,10 +15,9 @@
 
 -------------
 
-### Les recettes de geek
+### Misc
 
 - [100% terminal: old-school ou tendance ?](nogui.html)
-- [comment marier du vin et de la daube](drm.html)
 - [Federated learning open source platforms](fedDL.html)
 - [Les arbres de décision ne sont pas explicables](xai.html)
 
