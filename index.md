@@ -4,6 +4,7 @@
 - 2024-2025 course about LLM for M2 TAL (Nancy):
     - [Intro, embeddings, tokenizers](https://olki.loria.fr/cerisara/lexres/2024intro.html)
     - Solutions: [BPE](https://olki.loria.fr/cerisara/lexres/bpe.py), [TripletNet](https://olki.loria.fr/cerisara/lexres/triplet.py)
+    - [Attention](https://olki.loria.fr/cerisara/lexres/2024att.html)
 - [IDESSAI'2024](https://idessai.eu/) (Saarbrucken, DFKI):
     - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
     - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
