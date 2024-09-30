@@ -39,6 +39,8 @@
 - conformité gaz 10/6/2014
 - remplacement chaudière condensation Bosch 7500WT 4/6/2014
 
+- Note sur le [DPE](https://diagnostic-immobilier-arliane.fr/dpe/pourquoi-un-batiment-est-il-non-soumis-au-dpe/): non obligatoire si surface au sol < 50m2
+
 ### couts
 
 - SIEGVO: 85.38 €/an
