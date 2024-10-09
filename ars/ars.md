@@ -29,9 +29,9 @@
 
 ### Certificats
 
-- maison construite en 1948
-- toiture et charpentes refaites en 1988
-- porte d'entrée + volets + 27/11/2009
+- maison construite en 1958 (confirmé mairie de Ars + Observatoire National des Bâtiments)
+- toiture et charpente refaites en 1988
+- porte d'entrée + volets: 27/11/2009
 - 3x fenetres dble vitrage 6/166/4ITR 29/9/2009
 - remplacement volets salon K par K: 22/3/2018
 - entretien toiture = 16/8/2013
