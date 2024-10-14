@@ -14,6 +14,8 @@
 
 ### Tout va bien...
 
+<img src="img/elec.png" width="200"/>
+
 <img src="img/co2.png" width="400"/>
 
 -------------
