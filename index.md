@@ -25,6 +25,7 @@ Estimation of carbon costs ([source](https://www.6connex.com/sustainability/))
 | 18000 persons virtual conf | 176 |
 | 18000 persons F2F conf | 10348 |
 | 1 car/year | 5 |
+| 40M cars/year (France) | 200M |
 | **training Bloom** | 25 |
 
 -------------
