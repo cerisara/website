@@ -26,7 +26,7 @@ nouveau monde, le territoire de la pensée, tout comme les astrophysiciens explo
 inaccessibles.
 
 S'interdire de comprendre, c'est de l'obscurantisme.
-Refuser notre zombification technologique et de détruire la vie sur Terre, c'est du bon sens.
+Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est du bon sens.
 
 
 <img src="img/elec.png" width="400"/>
