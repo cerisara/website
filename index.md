@@ -20,10 +20,10 @@ Estimation of carbon costs ([source](https://www.6connex.com/sustainability/))
 
 |   | Carbon cost (T.CO2) |
 |:-:|:-------------------:|
-| 560 virtual conf | 10 |
-| 560 F2F conf | 274 |
-| 18000 virtual conf | 176 |
-| 18000 F2F conf | 10348 |
+| 560 persons virtual conf | 10 |
+| 560 persons F2F conf | 274 |
+| 18000 persons virtual conf | 176 |
+| 18000 persons F2F conf | 10348 |
 | 1 car/year | 5 |
 | **training Bloom** | 25 |
 
