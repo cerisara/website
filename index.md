@@ -14,15 +14,15 @@
 
 ### Effondrement climatique et sociétal
 
-Aurélien Barrau a totalement raison sur le fond (cf. [video youtube](https://www.youtube.com/watch?v=XNtucQbEEls)),
+Aurélien Barrau a raison sur le fond (cf. [video youtube](https://www.youtube.com/watch?v=XNtucQbEEls)),
 mais je pense qu'il définit mal sa cible lorsqu'il accuse l'"IA".
 Je suis totalement d'accord avec lui sur son constat, l'inutilité des "mesurettes" actuelles et l'urgence à changer
 radicalement nos mode de vie, ainsi que l'usage des technologies en général et celles d'IA en particulier, même si
-ces dernières ne sont qu'une goutte d'eau dans une mer de problèmes (cf. quelques chiffres ci-dessous).
-Mais s'il faut effectivement refuser le déploiement de masse de ces technologies, la recherche elle, doit continuer.
+ces dernières ne sont qu'une goutte d'eau dans une mer de problèmes bien plus importants (cf. quelques chiffres ci-dessous).
+Mais s'il faut effectivement remettre en cause le déploiement de masse de ces technologies tel qu'il est réalisé aujourd'hui, la recherche elle, doit continuer.
 Car les LLM sont les premiers artefacts jamais conçus capables d'une forme de raisonnement:
-nous pouvons enfin, à travers eux, commencer à comprendre une partie de nos propres capacités, et explorer un
-nouveau monde, le territoire de la pensée, tout comme les astrophysiciens explorent des mondes lointains à jamais
+ce sont les seuls outils disponibles pour commencer à comprendre une partie de nos propres capacités, et explorer un
+nouveau monde, le territoire de la cognition, tout comme les astrophysiciens explorent des mondes lointains à jamais
 inaccessibles.
 
 S'interdire de comprendre, c'est de l'obscurantisme.
