@@ -31,7 +31,7 @@ Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est d
 
 <img src="img/elec.png" width="400"/>
 
-Estimation of carbon costs ([source](https://www.6connex.com/sustainability/))
+Estimation of carbon costs 
 
 |   | Carbon cost (T.CO2) |
 |:-:|:-------------------:|
@@ -40,8 +40,12 @@ Estimation of carbon costs ([source](https://www.6connex.com/sustainability/))
 | 18000 persons virtual conf | 176 |
 | 18000 persons F2F conf | 10348 |
 | emissions 1 car/year [source](https://www.hellocarbo.com/blog/calculer/empreinte-carbone-voiture/) | 2.2 |
-| emissions 40M cars/year (France) | 88M |
+| emissions cars in France/year | 65M |
 | **training Bloom** | 25 |
+
+Sources: [UE](https://www.europarl.europa.eu/topics/fr/article/20190313STO31218/emissions-de-co2-des-voitures-faits-et-chiffres-infographie)
+[6connex](https://www.6connex.com/sustainability/)
+[statista](https://fr.statista.com/statistiques/1422808/emissions-voiture-essence-diesel-france/)
 
 -------------
 
