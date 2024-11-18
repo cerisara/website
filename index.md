@@ -43,8 +43,8 @@ Estimation of carbon costs
 | emissions cars in France/year | 65M |
 | **training Bloom** | 25 |
 
-Sources: [UE](https://www.europarl.europa.eu/topics/fr/article/20190313STO31218/emissions-de-co2-des-voitures-faits-et-chiffres-infographie)
-[6connex](https://www.6connex.com/sustainability/)
+Sources: [UE](https://www.europarl.europa.eu/topics/fr/article/20190313STO31218/emissions-de-co2-des-voitures-faits-et-chiffres-infographie),
+[6connex](https://www.6connex.com/sustainability/),
 [statista](https://fr.statista.com/statistiques/1422808/emissions-voiture-essence-diesel-france/)
 
 -------------
