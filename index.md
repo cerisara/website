@@ -11,6 +11,7 @@
 - [IDESSAI'2024](https://idessai.eu/) (Saarbrucken, DFKI):
     - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
     - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
+- [HUMANOIDS'2024](https://olki.loria.fr/cerisara/talks/2024humanoids.html)
 
 -------------
 
