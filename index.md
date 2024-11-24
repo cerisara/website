@@ -12,6 +12,7 @@
     - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
     - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
 - [HUMANOIDS'2024](https://olki.loria.fr/cerisara/talks/2024humanoids.html)
+- [LoRRAINE'2024](https://cran-simul.github.io/workshop-lorainne-2024) [slides](https://olki.loria.fr/cerisara/talks/sparse24.html)
 
 -------------
 
