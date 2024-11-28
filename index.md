@@ -1,19 +1,27 @@
 
 ### 2024-2025 Slides
 
-- 2024-2025 course about LLM for M2 TAL (Nancy):
+- Course: LLM for M2 TAL (Nancy):
     - [Intro, embeddings, tokenizers](https://olki.loria.fr/cerisara/lexres/2024intro.html)
     - Solutions: [BPE](https://olki.loria.fr/cerisara/lexres/bpe.py), [TripletNet](https://olki.loria.fr/cerisara/lexres/triplet.py)
     - [Attention](https://olki.loria.fr/cerisara/lexres/2024att.html); [solution Exo](https://olki.loria.fr/cerisara/lexres/selfatt.py)
     - [LLM](https://olki.loria.fr/cerisara/lexres/2024llm.html); [solution Exo scaling law](https://olki.loria.fr/cerisara/lexres/scale.py)
-- 2024-2025 course about LLM for M2 Sciences Cognitives (Nancy):
+- Course: Methodo-AI for M2 Sciences Cognitives (Nancy):
     - [Methodo-AI: slides of course](https://olki.loria.fr/cerisara/lexres/2024methodoIntro.html)
     - [correction plot embeddings](https://olki.loria.fr/cerisara/lexres/sbert.py)
-- [IDESSAI'2024](https://idessai.eu/) (Saarbrucken, DFKI):
-    - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
-    - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
-- [HUMANOIDS'2024](https://olki.loria.fr/cerisara/talks/2024humanoids.html)
-- [LoRRAINE'2024](https://cran-simul.github.io/workshop-lorainne-2024) [slides](https://olki.loria.fr/cerisara/talks/sparse24.html)
+- Summer schools
+    - [IDESSAI'2024](https://idessai.eu/) (Saarbrucken, DFKI):
+        - [Intro LLM](https://olki.loria.fr/cerisara/talks/2024llmintro.html)
+        - [PEFT](https://olki.loria.fr/cerisara/talks/2024peft.html)
+- Keynotes
+    - [LoRRAINE'2024](https://cran-simul.github.io/workshop-lorainne-2024) [slides](https://olki.loria.fr/cerisara/talks/sparse24.html)
+    - [HUMANOIDS'2024](https://olki.loria.fr/cerisara/talks/2024humanoids.html)
+    - [Codeur en Seine'2023](https://olki.loria.fr/cerisara/talks/2023cslides.html)
+- Industry talks
+    - [Givaudan'2024](https://olki.loria.fr/cerisara/synalp/2024slides24.html)
+    - [Orange'2023](https://olki.loria.fr/cerisara/talks/2023orange.html)
+- Projects
+    - [LLM4ALL](https://olki.loria.fr/cerisara/mines/2023wp0.html)
 
 -------------
 
