@@ -38,10 +38,11 @@ mais s'ils ont survécu aussi longtemps et sont toujours utilisés, c'est pour u
 - **navigateur internet**: **lynx** pour aller vite, mais c'est vrai que il y a beaucoup de pages qui ne passent
   plus bien dans lynx; dans ce cas, il faut faire un compromis et utiliser une interface graphique, mais contrôlée
   au clavier: **qutebrowser**.
-- **agenda**: Vous avez remarqué qu'il y a pléthore d'agendas ? Bien sûr, vous en avez un chez Google, mais
-  aussi un à votre travail ? Ou peut-être utilisez-vous celui de Teams ? Et évidemment, pas facile à tout
-  sauvegarder en un seul endroit... Jetez tout cela à la poubelle, et utilisez **calcurse**, terminal-based,
-  mode texte, scriptable à souhait, compatible avec git, et même utilisable sous android avec termux !
+- **agenda**: J'ai utilisé **calcurse** pendant plusieurs années, mais n'étant pas compatible avec calDAV, il ne
+  permet pas de voir les agenda sur android. Je suis donc passé (fin 2024) à **khal** et **vdirsyncer** pour mes PC linux,
+  et **ETAR** et **DAVx5** sur android (tout est sur FDroid et Google-free). Bien sur, il faut avoir un site de confiance
+  pour hoster le serveur calDAV, ou le self-hoster soi-meme. Mon agenda pro est hébergé par INRIA, et mon agenda perso
+  est sur **framagenda**. 
 - **réseaux sociaux**: fuyez les grands réseaux sociaux; les geeks sont encore sur **Usenet** (eh oui, ca ne sert pas que
   à pirater, on peut aussi y discuter !), à lire avec **slrn** par exemple. Ou alors, il y a **Mastodon**, mais pas très adapté au terminal; sinon, le vénérable IRC, ou pas de réseaux sociaux du tout, c'est encore mieux.
 
