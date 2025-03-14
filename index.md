@@ -1,9 +1,8 @@
 
 ### 2024-2025 Slides
 
-(I'm very sorry, but I have removed all my talks and courses, because I've not had the time to fully check
-every illustration source and licence. I'll post them back when I'll have double checked all this...
-I'm sorry for anyone who wanted to access this content, but copyright protection is more important than transparency currently)
+(I'm sorry, but I have removed my talks and courses, because I've not had the time to fully check
+every illustration source and licence. I'll post them back when I'll have double checked all this...)
 
 -------------
 
