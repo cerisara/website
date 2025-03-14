@@ -15,9 +15,13 @@ radicalement nos mode de vie, ainsi que l'usage des technologies en général et
 ces dernières ne sont qu'une goutte d'eau dans une mer de problèmes bien plus importants (cf. quelques chiffres ci-dessous).
 Mais s'il faut effectivement remettre en cause le déploiement de masse de ces technologies tel qu'il est réalisé aujourd'hui, la recherche elle, doit continuer.
 Car les LLM sont les premiers artefacts jamais conçus capables d'une forme de raisonnement:
-ce sont les seuls outils disponibles pour commencer à comprendre une partie de nos propres capacités, et explorer un
-nouveau monde, le territoire de la cognition, tout comme les astrophysiciens explorent des mondes lointains à jamais
-inaccessibles.
+ce sont les seuls outils disponibles pour commencer à comprendre, peut-être, une partie de nos propres capacités.
+Le terme d'"intelligence" est, ou n'est pas, adapté pour les décrire, c'est selon l'acceptation de la définition
+d'intelligence de chacun, mais dans tous les cas, ces outils nous offrent une nouvelle forme de "raisonnement" complexe
+connu de nous, et nous n'en connaissons que deux autres: celles des animaux et de l'humanité.
+Ce sont les seules autres entités physiques capables de communiquer de manière complexe avec nous.
+Comment ne pas vouloir explorer ce nouveau monde ? C'est une nouvelle opportunité, tellement rare, pour en apprendre plus
+sur la nature, sur l'évolution, voire sur nos propres facultés cognitives.
 
 S'interdire de comprendre, c'est de l'obscurantisme.
 Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est du bon sens.
