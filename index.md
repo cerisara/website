@@ -1,7 +1,9 @@
 
-### 2024-2025 Slides
+### 2024-2025 Talks slides
 
-(I'm sorry, but I have removed my talks and courses, because I've not had the time to fully check
+- GDR [NLP day at Orange](https://gdr-tal-jcp2025.sciencesconf.org/) : [slides](https://olki.loria.fr/cerisara/talks/gdr25.html)
+
+(I'm sorry, but I have removed most of my talks and courses, because I've not had the time to fully check
 every illustration source and licence. I'll post them back when I'll have double checked all this...)
 
 -------------
