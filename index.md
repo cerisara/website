@@ -64,5 +64,7 @@ Sources: [UE](https://www.europarl.europa.eu/topics/fr/article/20190313STO31218/
 
 ### Citation
 
-Shelley Wright (International lawyer, books author): "[Copyright is] ... the quintessential representations of the modern, public world of bourgeois expansion, male dominance and European colonial influence ..."
+- Shelley Wright (International lawyer, books author): "[Copyright is] ... the quintessential representations of the modern, public world of bourgeois expansion, male dominance and European colonial influence ..."
+- Voir aussi: https://www.youtube.com/watch?v=x3rptRn6GeA
+
 
