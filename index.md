@@ -53,6 +53,8 @@ Sources: [UE](https://www.europarl.europa.eu/topics/fr/article/20190313STO31218/
 
 <img src="img/co2.png" width="400"/>
 
+<a href="https://vert.eco/articles/les-populations-dinsectes-seffondrent-partout-dans-le-monde-on-decrypte-cinq-etudes-scientifiques-marquantes-sur-le-sujet">63% des insectes volants</a> ont disparu en 3 ans en Grande Bretagne
+
 -------------
 
 ### Misc
