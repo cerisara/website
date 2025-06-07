@@ -16,13 +16,16 @@ mais s'ils ont survécu aussi longtemps et sont toujours utilisés, c'est pour u
   et lorsqu'un email arrive en HTML (quelle idée ! mais bon, y'en a qui trouvent ça "joli"...),
   il est facile de configurer une touche pour l'ouvrir illico dans un firefox. Et pour faire des
   recherches plus rapidement dans nos dizaines de milliers de mails passés, rien de mieux que
-  **offlineimap** combiné avec **notmuch**: ca prend un peu de disque, mais quelle vitesse et précision
-  dans la recherche !
+  **offlineimap**: j'ai longtemps utilisé mutt en connection directe avec Zimbra,
+  mais Zimbra envoie parfois des headers erronés; je suis donc passé à offlineimap + mutt, ca marche bien avec Zimbra.
+  Par contre, offlineimap/mutt marchent très mal avec GMAIL: j'utilise donc pour GMAIL spécifiquement
+  [lieer+notmuch](https://lieer.gaute.vetsj.com) qui est conçu spécifiquement pour GMAIL: il marche très bien.
 - **éditeur**: OK, y'a pas photo: **VIM**, what else ? Ah j'entends quelque chose au fond, quoi ? "Et Max" ?
   hummm... connais pas !
 - **gestionnaire de mots de passe**: bon celui-là est très très geek, et pas facile à installer, mais tout
   dans le terminal, ultra-rapide, private-secure, synchronisé dans git,
-  dispo sous android et linux: **pass** (password-store) combiné avec **gpg** et bien sûr **git**.
+  dispo sous android et linux: **pass** (password-store) combiné avec **gpg** et bien sûr **git** pour centraliser les
+  fichiers de mot de passe.
 - **gestionnaire d'articles**: pour ceux qui lisent beaucoup d'articles en PDF sur le web (il serait grand temps
   d'éliminer le PDF pour le remplacer par du markdown+epub, mais bon, c'est un autre débat): **papis**
   est très bien, tout terminal, rapide, synchro avec **git**.
@@ -41,7 +44,7 @@ mais s'ils ont survécu aussi longtemps et sont toujours utilisés, c'est pour u
 - **agenda**: J'ai utilisé **calcurse** pendant plusieurs années, mais n'étant pas compatible avec calDAV, il ne
   permet pas de voir les agenda sur android. Je suis donc passé (fin 2024) à **khal** et **vdirsyncer** pour mes PC linux,
   et **ETAR** et **DAVx5** sur android (tout est sur FDroid et Google-free). Bien sur, il faut avoir un site de confiance
-  pour hoster le serveur calDAV, ou le self-hoster soi-meme. Mon agenda pro est hébergé par INRIA, et mon agenda perso
+  pour hoster le serveur calDAV, ou le self-hoster soi-meme. Mon agenda pro est hébergé sur Zimbra, et mon agenda perso
   est sur **framagenda**. 
 - **réseaux sociaux**: fuyez les grands réseaux sociaux; les geeks sont encore sur **Usenet** (eh oui, ca ne sert pas que
   à pirater, on peut aussi y discuter !), à lire avec **slrn** par exemple. Ou alors, il y a **Mastodon**, mais pas très adapté au terminal; sinon, le vénérable IRC, ou pas de réseaux sociaux du tout, c'est encore mieux.
