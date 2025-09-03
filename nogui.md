@@ -8,6 +8,7 @@ Misc terminal tools:
 - vim + git
 - password-store + gpg2
 - lynx
+- toot
 
 ### 100% terminal
 
