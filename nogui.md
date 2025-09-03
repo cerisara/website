@@ -1,3 +1,14 @@
+Misc terminal tools:
+
+- curl -s "https://aleyan.com/projects/ascii-side-of-the-moon?date=2025-09-03"
+- curl https://wttr.in/nancy
+- charm.sh
+- mutt + offlineimap + notmuch
+- khalendar + vdirsyncer
+- vim + git
+- password-store + gpg2
+- lynx
+
 ### 100% terminal
 
 La souris, c'est l'enfer pour les vrais geeks: il faut déplacer le bras pour la chercher,
