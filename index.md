@@ -32,7 +32,7 @@ Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est d
 
 - coût des usages numériques globaux: entre 2% et 4% du coût global [source](https://theshiftproject.org/app/uploads/2025/02/The-Shift-Project-What-virtual-worlds-for-a-sustainable-real-world-Final-report-March-2024_ENG.pdf)
 - coût de l'IA (estimation de fin 2024): très inférieur à 1% [source](https://www.icef.go.jp/wp-content/themes/icef_new/pdf/roadmap/2024/15_ICEF2.0%20GHG%20Emissions%20from%20AI_stand%20alone.pdf)
-- mais 2025 est une phase d'augmentation rapide pour l'IA (doublement selon [source](https://www.reuters.com/sustainability/climate-energy/tech-giants-indirect-emissions-rose-150-three-years-ai-expands-un-agency-says-2025-06-05)), augmentation due au déploiement massif des IA en accès libre pour le grand public
+- mais 2025 est une phase d'augmentation rapide pour l'IA (doublement selon [source](https://www.reuters.com/sustainability/climate-energy/tech-giants-indirect-emissions-rose-150-three-years-ai-expands-un-agency-says-2025-06-05)), augmentation due au déploiement des IA en accès libre pour le grand public
 
 En comparaison avec le coût carbone des voitures individuelles:
 
