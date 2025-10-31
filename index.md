@@ -28,6 +28,22 @@ sur la nature, sur l'évolution, voire sur nos propres facultés cognitives.
 S'interdire de comprendre, c'est de l'obscurantisme.
 Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est du bon sens.
 
+### Quelques chiffres récents liés au carbon cost de l'IA
+
+- coût des usages numériques globaux: entre 2% et 4% du coût global [source](https://theshiftproject.org/app/uploads/2025/02/The-Shift-Project-What-virtual-worlds-for-a-sustainable-real-world-Final-report-March-2024_ENG.pdf)
+- coût de l'IA (estimation de fin 2024): très inférieur à 1% [source](https://www.icef.go.jp/wp-content/themes/icef_new/pdf/roadmap/2024/15_ICEF2.0%20GHG%20Emissions%20from%20AI_stand%20alone.pdf)
+- mais 2025 est une phase d'augmentation rapide pour l'IA (doublement selon [source](https://www.reuters.com/sustainability/climate-energy/tech-giants-indirect-emissions-rose-150-three-years-ai-expands-un-agency-says-2025-06-05)), augmentation due au déploiement massif des IA en accès libre pour le grand public
+
+En comparaison avec le coût carbone des voitures individuelles:
+
+- coût moyen par voiture: 4.6 TCO2 [source](https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle); 106 gCO2/km en Europe [source](https://www.eea.europa.eu/en/analysis/indicators/co2-performance-of-new-passenger)
+- 10% du coût global, i.e., 3.8 Gt CO₂ en 2023 selon [source](https://www.iea.org/energy-system/transport/cars-and-vans)
+- coût des transports: entre 15 et 23% selon [source](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-10)
+- En Europe, les voitures électriques ont un coût relatif (tout compris) de 75% des voitures à combustion [source](https://theicct.org/publication/electric-cars-life-cycle-analysis-emissions-europe-jul25)
+- Mais le nombre de voitures total continue d'augmenter rapidement [source](https://iea.blob.core.windows.net/assets/33e2badc-b839-4c18-84ce-f6387b3c008f/CO2Emissionsin2023.pdf)
+- Et la taille des voitures continue d'augmenter aussi [source](https://apnews.com/article/7da17af9a585feb8945dffff133e9335)
+
+### Chiffres un peu plus anciens récupérés en 2024
 
 <img src="img/elec.png" width="400"/>
 
