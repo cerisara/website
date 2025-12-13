@@ -1,10 +1,14 @@
 
-### 2024-2025 Talks slides
+### The LLMs I contributed to
 
-- GDR [NLP day at Orange](https://gdr-tal-jcp2025.sciencesconf.org/) : [slides](https://olki.loria.fr/cerisara/talks/gdr25.html)
+Year 2025 is finishing, and I think it's a good time to wrap-up together on a single web page the
+main LLMs we have contributed to in 2025. You can find the list [on my web page](https://members.loria.fr/CCerisara/#myLLMs/).
 
-(I'm sorry, but I have removed most of my talks and courses, because I've not had the time to fully check
-every illustration source and licence. I'll post them back when I'll have double checked all this...)
+-------------
+
+### Talks slides
+
+- My most recent talk will from now on be posted on [https://ia.loria.fr/talk](https://ia.loria.fr/talk) (until the next talk shall replace it).
 
 -------------
 
