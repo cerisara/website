@@ -12,26 +12,6 @@ main LLMs we have contributed to in 2025. You can find the list [on my web page]
 
 -------------
 
-### Effondrement climatique et sociétal
-
-Aurélien Barrau a raison sur le fond (cf. [video youtube](https://www.youtube.com/watch?v=XNtucQbEEls)),
-mais je pense qu'il définit mal sa cible lorsqu'il accuse l'"IA".
-Je suis totalement d'accord avec lui sur son constat, l'inutilité des "mesurettes" actuelles et l'urgence à changer
-radicalement nos mode de vie, ainsi que l'usage des technologies en général et celles d'IA en particulier, même si
-ces dernières ne sont qu'une goutte d'eau dans une mer de problèmes bien plus importants (cf. quelques chiffres ci-dessous).
-Mais s'il faut effectivement remettre en cause le déploiement de masse de ces technologies tel qu'il est réalisé aujourd'hui, la recherche elle, doit continuer.
-Car les LLM sont les premiers artefacts jamais conçus capables d'une forme de raisonnement:
-ce sont les seuls outils disponibles pour commencer à comprendre, peut-être, une partie de nos propres capacités.
-Le terme d'"intelligence" est, ou n'est pas, adapté pour les décrire, c'est selon l'acceptation de la définition
-d'intelligence de chacun, mais dans tous les cas, ces outils nous offrent une nouvelle forme de "raisonnement" complexe
-connu de nous, et nous n'en connaissons que deux autres: celles des animaux et de l'humanité.
-Ce sont les seules autres entités physiques capables de communiquer de manière complexe avec nous.
-Comment ne pas vouloir explorer ce nouveau monde ? C'est une nouvelle opportunité, tellement rare, pour en apprendre plus
-sur la nature, sur l'évolution, voire sur nos propres facultés cognitives.
-
-S'interdire de comprendre, c'est de l'obscurantisme.
-Refuser notre zombification sociétale et de détruire la vie sur Terre, c'est du bon sens.
-
 ### Quelques chiffres récents liés au carbon cost de l'IA
 
 - coût des usages numériques globaux: entre 2% et 4% du coût global [source](https://theshiftproject.org/app/uploads/2025/02/The-Shift-Project-What-virtual-worlds-for-a-sustainable-real-world-Final-report-March-2024_ENG.pdf)
