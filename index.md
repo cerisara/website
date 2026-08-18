@@ -1,7 +1,38 @@
+### Agentic AI
+
+The current (2026) revolution of AI is concerned with agentic AI, which
+decuplates the performances of LLMs to solve complex grounded tasks (in maths,
+software engineering, computer use, involving APIs...) thanks to the combination
+of an agentic loop, where the LLM is trained to reason, test some hypothesis,
+analyze the results, fix the errors and iterate, and of tools usage, where the
+LLM is trained to call external tools (browser, linux commands, python execution
+environment, database calls, web APIs...).
+
+Dismissing agentic AI as "just adding tools to LLMs" is missing the point, as
+agentic capabilities greatly improve both the performance and variety of tasks
+feasible by LLMs, in a similar way as the discovery of transformers, then
+scaling laws and then test-time compute have successively disrupted the AI
+landscape.
+Furthermore, by leveraging smaller sub-agents specialized in each type of tool,
+or in planning or reasonin, agentic AI opens the way to succesfully exploit
+smaller LLMs that can be manage locally.
+
+This is important as "sovereign European AI" will neither occur through writing
+more rules and regulation (except if Europe strictly forbids any non-European
+cloud AI APIs), nor by building European software stacks on top of non-EU cloud
+APIs, but by investing in local-first AI solutions. Training EU LLMs from
+scratch is impossible within the current copyright EU regulations, and it is
+likely too late to catch-up with the World-wide competition. The most reasonable remaining
+opportunity that is still open for EU as of mid-2026, is to leverage Chinese
+pretrained LLMs while they are still open-source and learn to adapt them to EU
+values and improve them with new knowledge and new capabilities.
+But there is urgency, as this option may not be available for long.
+
+-------------
 
 ### The LLMs I contributed to
 
-Year 2025 is finishing, and I think it's a good time to wrap-up together on a single web page the
+Year 2025 is finished, and I think it's a good time to wrap-up together on a single web page the
 main LLMs we have contributed to in 2025. You can find the list [on my web page](https://members.loria.fr/CCerisara/#myLLMs/).
 
 -------------
