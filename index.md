@@ -6,6 +6,51 @@
  
 -------------
 
+### N'écoutons pas les grands patrons de la tech
+
+Régulièrement, les grands patrons de la tech américaine allertent sur le
+"danger" que représente l'IA, en mettant en avant en général des arguments sécuritaires.
+Ne nous leurrons pas: leurs alertes relèvent d'une stratégie bien rôdée
+destinée à accroître encore leur domination et leur monopole dans le secteur de l'IA.
+Cette stratégie est la suivante.
+
+D'abord, faire en sorte que les populations aient peur des dangers supposés de l'IA.
+Car la population, au moins aux USA et en Europe, exerce une pression importante
+sur les politiciens. Donc lorsque la population a peur, alors, en réaction, les politiciens
+créent de nouvelles lois et régulations pour restreindre l'usage de l'IA et rassurer leurs citoyennes et citoyens.
+Contre-intuitivement, de telles lois font le bonheur des grands patrons de la tech, car
+ils possèdent des réseaux de lobbying très puissants auprès des dirigeants et
+ils savent qu'ils pourront toujours orienter les lois dans le sens qui leur
+convient. Par exemple, ils expliqueront aux politiciens, qui d'ailleurs ne
+connaissent rien à l'IA et seront donc ravis d'avoir l'avis de tels "experts", que les IA
+représentent un danger immense pour notre cyber-sécurité et qu'il ne faut
+surtout pas les laisser entre de mauvaises mains. Une fois ce message de peur
+bien assimilé, ils continueront en disant qu'ils ont les moyens de contrôler
+qui accède aux IA et ce que les utilisateurs en font. La conclusion s'imposera
+d'elle-même: il faut donc interdire les IA open-source afin que les
+cyber-criminels n'y aient pas accès, et enfermer toutes les IA derrière un mur
+infranchissable, dont la clef sera entre les mains des grands patrons américains.
+
+Cette stratégie de la peur assure donc, d'une part, le monopole des patrons
+américains en éliminant les IA open-source chinoises du marché de l'IA en Europe et en occident;
+et d'autre part, ralentit la montée en compétence en IA des scientifiques européens
+qui auront plus de mal à pouvoir utiliser, comprendre, s'approprier et améliorer ces IA open-source.
+Bien entendu, les arguments de la stratégie de peur sont fallacieux et auront
+pour véritables conséquences d'affaiblir la recherche en Europe et d'instaurer une
+dépendance totale du vieux continent aux IA américaines. Mais elle n'aura aucune
+conséquence sur la montée en puissance des cyber-criminels des pays
+non-occidentaux (Russie, Chine...) qui eux, apprennent déjà comment bien utiliser les IA
+open-source chinoises pour lancer des attaques de plus en plus sophistiquées
+contre l'Europe, qui n'aura d'autre choix que de se réfugier derrière le
+"bouclier" que les américains daigneront nous octroyer, à coût très élevé bien sûr.
+
+Au contraire, si nous adoptons largement ces IA chinoises, qui dépasseront
+bientôt les capacités des IA américaines et qui sont
+encore open-source (mais cela ne durera pas), alors nous pouvons apprendre à les maîtriser
+et à les améliorer et l'Europe restera ainsi dans la course à l'IA et saura se
+défendre seule.
+
+
 ### Agentic AI and sovereignty
 
 The current (2026) revolution of AI is concerned with agentic AI, which
