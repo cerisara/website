@@ -1,7 +1,7 @@
 
 ### My slides
 
-- My course slides are available [on my lab server](https://olki.loria.fr/cerisara/lexres/2026llm26.html). You can download them in PDF by adding "?print-pdf" at the end of the URL.
+- My course slides are available [on my lab server](https://olki.loria.fr/cerisara/lexres/2026methodo.html). You can download them in PDF by adding "?print-pdf" at the end of the URL.
 - My most recent talk will from now on be posted on [https://ia.loria.fr/talk](https://ia.loria.fr/talk) (until the next talk shall replace it).
  
 -------------
