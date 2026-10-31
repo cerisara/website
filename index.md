@@ -6,6 +6,11 @@
  
 -------------
 
+I'm doomed! GPT6 Astra a [résolu Nethack](https://github.com/kenforthewin/nethack_astra)...
+J'arrive encore trop tard, pourtant mon LLM était courageusement arrivé au niveau 3 ;-)
+
+-------------
+
 ### N'écoutons pas les grands patrons de la tech
 
 Régulièrement, les grands patrons de la tech américaine allertent sur le
